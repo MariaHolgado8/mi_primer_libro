@@ -1,5 +1,17 @@
-# Introduction
+# Presentation
 
+As shown in {numref}`fig-author`, this material has been prepared by Professor María Holgado Aguadero, from the University of Salamanca.
+
+```{figure} ../_static/maria_holgado_aguadero.png
+---
+name: fig-author
+width: 40%
+align: center
+---
+María Holgado Aguadero, professor at the University of Salamanca (USAL).
+```
+
+<!-- 
 Welcome to **Creating Electronic Books with Code and Artificial Intelligence Assistants**.
 
 ## What is this?
@@ -22,3 +34,4 @@ You can also download the printable version of the book:
 ```{note}
 This project is designed to be used with **VS Code** and **AI** assistants.
 ```
+-->

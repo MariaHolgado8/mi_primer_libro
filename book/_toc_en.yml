@@ -1,9 +1,14 @@
 format: jb-book
 root: en/intro
 parts:
-  - caption: Author Presentation
+  # - caption: Author Presentation
+  #   chapters:
+  #   - file: en/00_author/author_presentation
+
+  - caption: Module 1
     chapters:
-    - file: en/00_author/author_presentation
+    - file: en/01_social_justice/intro
+
   # ── Content temporarily hidden for first book launch ─────────────────────
   # To restore, uncomment the sections you need.
   #

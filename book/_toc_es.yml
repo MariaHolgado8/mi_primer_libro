@@ -1,9 +1,14 @@
 format: jb-book
 root: es/intro
 parts:
-  - caption: Presentación del Autor
+  # - caption: Presentación del Autor
+  #   chapters:
+  #   - file: es/00_autor/presentacion_autor
+
+  - caption: Módulo 1
     chapters:
-    - file: es/00_autor/presentacion_autor
+    - file: es/01_justicia_social/intro
+
   # ── Contenido oculto temporalmente para primer arranque del libro ─────────
   # Para restaurar, descomenta las secciones que necesites.
   #

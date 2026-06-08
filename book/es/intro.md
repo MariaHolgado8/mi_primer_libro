@@ -1,5 +1,17 @@
-# Introducción
+# Presentación
 
+Como muestra la {numref}`fig-autora`, este material ha sido preparado por la profesora María Holgado Aguadero, de la Universidad de Salamanca.
+
+```{figure} ../_static/maria_holgado_aguadero.png
+---
+name: fig-autora
+width: 40%
+align: center
+---
+María Holgado Aguadero, profesora de la Universidad de Salamanca (USAL).
+```
+
+<!-- 
 Bienvenido a **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial**.
 
 ## ¿Qué es esto?
@@ -21,3 +33,4 @@ También puedes descargar la versión imprimible del libro:
 ```{note}
 Este proyecto está diseñado para ser usado con **VS Code** y asistentes de **IA**.
 ```
+-->
